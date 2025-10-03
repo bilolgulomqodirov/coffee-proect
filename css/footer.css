@@ -1,0 +1,27 @@
+.footer-link {
+    display: flex;
+    gap: 20px;
+
+}
+
+.footer-wrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer-imgs {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+
+.footer {
+    background-color: var(--maincolor);
+    height: 200px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 20px 0;
+}

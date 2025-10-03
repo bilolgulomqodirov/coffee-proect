@@ -1,0 +1,24 @@
+.comment-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 160px 0 272px 0;
+}
+
+.cup {
+    animation-name: cup;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    transform: rotate(0deg);
+}
+
+@keyframes cup {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}

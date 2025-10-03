@@ -1,0 +1,37 @@
+
+
+.quality{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    background-color: #C99B67;
+   
+}
+
+
+ 
+.quality-item{
+font-family: Roboto;
+font-weight: 700;
+font-style: Bold;
+font-size: 50px;
+color:  #FFFFFF;
+
+}
+
+.quality-item2{
+width: 640px;
+font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+color:  #FFFFFF;
+
+}
+
+
+.quality-menu{
+    position: relative;
+    top: -150px;
+}
